@@ -1,0 +1,72 @@
+body {
+	font-family: 'Montserrat', sans-serif; 
+	background-color: #f8f8ff; 
+	margin: 6% 20%;
+	}
+
+h1 {
+	font-size: 50px;
+	font-family: 'Roboto Mono', monospace;
+	background-color: #f8f8ff;
+	text-align: center;
+	}
+
+h2 {
+	font-size: 32px; 
+	font-family: 'Roboto Mono', monospace; 
+	color: #696969; 
+	text-align: center;
+	}
+
+h3 {
+	font-size: 32px; 
+	font-family: 'Roboto Mono', monospace; 
+	color: #696969; 
+	text-align: left;
+}
+
+h4 {
+	font-size: 22px;
+	font-family: 'Roboto Mono', monospace; 
+	color: black; 
+	text-align: left;
+}
+	
+p {
+	font-size: 20px;
+	font-family: 'Open Sans', sans-serif;
+	}
+
+a {
+	color: red; 
+	font-weight: normal; 
+	font-size: 20px; 
+	text-decoration: none;
+	}
+
+a:hover { 
+	color: red; 
+	font-weight: normal; 
+	font-size: 20px; 
+	text-decoration: underline;
+	}
+
+hr {
+    	border: 0;
+    	height: 0;
+   	border-top: 2px solid rgba(0, 0, 0, 0.2);
+   	border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+code {
+	background-color: #e3e3e3;
+	border-radius: 5px;
+	padding: 1px 6px 1px;
+}
+
+#mail {
+	color: red; 
+	font-weight: normal; 
+	font-size: 20px; 
+	text-decoration: none;
+}
