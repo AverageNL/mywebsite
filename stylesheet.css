@@ -1,6 +1,7 @@
 
 body {
-	font-family: 'Montserrat', sans-serif; 
+	font-family: 'iA Writer Duospace', monospace;
+	font-size: 22px;
 	background-color: #ffffff; 
 	margin: 6% 20%;
 	}
@@ -35,20 +36,20 @@ h4 {
 	
 p {
 	font-family: 'iA Writer Duospace', monospace;
-	font-size: 24px;
+	font-size: 22px;
 }
 
 a {
 	color: #f22613; 
 	font-weight: normal; 
-	font-size: 20px; 
+	font-size: 22px; 
 	text-decoration: none;
 	}
 
 a:hover { 
 	color: #f22613; 
 	font-weight: normal; 
-	font-size: 20px; 
+	font-size: 22px; 
 	text-decoration: underline;
 	}
 
