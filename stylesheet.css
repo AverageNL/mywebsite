@@ -38,6 +38,8 @@ h4 {
 p {
 	font-family: 'iA Writer Duospace', monospace;
 	font-size: 22px;
+	font-weight: 400;
+
 }
 
 a {
@@ -51,6 +53,7 @@ a:hover {
 	color: #f22613; 
 	font-weight: normal; 
 	font-size: 22px; 
+	font-weight: 400;
 	text-decoration: underline;
 	}
 
@@ -71,5 +74,6 @@ code {
 	color: #f22613; 
 	font-weight: normal; 
 	font-size: 20px; 
+	font-weight: 400;
 	text-decoration: none;
 }
