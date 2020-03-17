@@ -34,7 +34,8 @@ h4 {
 }
 	
 p {
- 	font-family: 'Open Sans', sans-serif; 
+ 	font-family: 'iA Writer Duospace Regular'; 
+	src: url(https://daanvanmonsjou.nl/files/iAWriterDuospace-Regular.ttf);
 	font-size: 20px;
 }
 
