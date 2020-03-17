@@ -1,7 +1,7 @@
 
 body {
    	font-family: 'Source Sans Pro', sans-serif;
-	font-size: 20px;
+	font-size: 22px;
 	background-color: #ffffff; 
 	margin: 6% 20%;
 	line-height: 1.2;
@@ -37,21 +37,21 @@ h4 {
 	
 p {
    	font-family: 'Source Sans Pro', sans-serif;
-	font-size: 20px;
+	font-size: 22px;
 	line-height: 1.2;
 }
 
 a {
 	color: #f22613; 
 	font-weight: normal; 
-	font-size: 20px; 
+	font-size: 22px; 
 	text-decoration: none;
 	}
 
 a:hover { 
 	color: #f22613; 
 	font-weight: normal; 
-	font-size: 20px; 
+	font-size: 22px; 
 	text-decoration: underline;
 	}
 
@@ -71,6 +71,6 @@ code {
 #mail {
 	color: #f22613; 
 	font-weight: normal; 
-	font-size: 20px; 
+	font-size: 22px; 
 	text-decoration: none;
 }
