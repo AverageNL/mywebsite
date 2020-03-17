@@ -1,7 +1,7 @@
 
 body {
-    	font-family: 'Sen', sans-serif;
-	font-size: 22px;
+    	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
 	background-color: #ffffff; 
 	margin: 6% 20%;
 	line-height: 1.2;
@@ -9,14 +9,14 @@ body {
 
 h1 {
 	font-size: 52px;
-	font-family: 'Ubuntu Mono', monospace;
+	font-family: 'Source Sans Pro', sans-serif;
 	background-color: #ffffff;
 	text-align: center;
 	}
 	
 h2 {
 	font-size: 32px; 
-	font-family: 'Ubuntu Mono', monospace;
+	font-family: 'Source Sans Pro', sans-serif;
 	color: #696969; 
 	text-align: center;
 	}
