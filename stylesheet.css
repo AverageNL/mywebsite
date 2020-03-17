@@ -7,7 +7,7 @@ body {
 @font-face {
 	p {
  	font-family: 'iA Writer Duospace Regular'; 
-	src: url(https://daanvanmonsjou.nl/files/iAWriterDuospace-Regular.ttf);
+	src: url(https://daanvanmonsjou.nl/files/iAWriterDuospace-Regular.ttf) format: ("truetype");
 	font-size: 20px;
 }
 
