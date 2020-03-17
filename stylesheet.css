@@ -4,6 +4,12 @@ body {
 	background-color: #ffffff; 
 	margin: 6% 20%;
 	}
+@font-face {
+	p {
+ 	font-family: 'iA Writer Duospace Regular'; 
+	src: url(https://daanvanmonsjou.nl/files/iAWriterDuospace-Regular.ttf);
+	font-size: 20px;
+}
 
 h1 {
 	font-size: 52px;
