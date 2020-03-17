@@ -9,14 +9,14 @@ body {
 
 h1 {
 	font-size: 52px;
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Ubuntu Mono', monospace;
 	background-color: #ffffff;
 	text-align: center;
 	}
 	
 h2 {
 	font-size: 32px; 
-	font-family: 'Roboto Slab', serif;
+	font-family: 'Ubuntu Mono', monospace;
 	color: #696969; 
 	text-align: center;
 	}
@@ -30,28 +30,28 @@ h3 {
 
 h4 {
 	font-size: 22px;
-	font-family: 'Roboto Slab', serif;
+	font-family: 'Ubuntu Mono', monospace;
 	color: black; 
 	text-align: left;
 }
 	
 p {
-    	font-family: 'Sen', sans-serif;
-	font-size: 22px;
+    	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
 	line-height: 1.2;
 }
 
 a {
 	color: #f22613; 
 	font-weight: normal; 
-	font-size: 22px; 
+	font-size: 20px; 
 	text-decoration: none;
 	}
 
 a:hover { 
 	color: #f22613; 
 	font-weight: normal; 
-	font-size: 22px; 
+	font-size: 20px; 
 	text-decoration: underline;
 	}
 
@@ -71,6 +71,6 @@ code {
 #mail {
 	color: #f22613; 
 	font-weight: normal; 
-	font-size: 22px; 
+	font-size: 20px; 
 	text-decoration: none;
 }
