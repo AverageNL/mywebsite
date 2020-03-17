@@ -1,9 +1,10 @@
 body {
-	font-family: Duospace;
-    	src: url("daanvanmonsjou.nl/files/iAWriterDuospace-Regular.ttf") format('truetype');
 	background-color: #ffffff; 
 	margin: 6% 20%;
 	}
+
+@font-face {
+	font-family: Duospace; src: url('daanvanmonsjou.nl/files/iAWriterDuospace-Regular.ttf';}
 
 h1 {
 	font-size: 52px;
@@ -35,8 +36,6 @@ h4 {
 	
 p {
 	font-size: 20px;
-	font-family: Duospace;
-    	src: url("daanvanmonsjou.nl/files/iAWriterDuospace-Regular.ttf") format('truetype');
 	}
 
 a {
