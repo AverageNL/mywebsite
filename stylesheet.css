@@ -67,6 +67,11 @@ code {
 	padding: 1px 6px 1px;
 }
 
+footer {
+	float: right; 
+	font-size: 16px
+}
+
 #mail {
 	color: #f22613; 
 	font-weight: normal; 
@@ -110,3 +115,4 @@ display: none;
 	margin: 0 auto;
 	padding: 0;	
 }
+
