@@ -1,1 +1,1 @@
-javascript:ReverseDisplay('uniquename')
+ReverseDisplay('uniquename')
