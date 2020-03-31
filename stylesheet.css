@@ -73,3 +73,11 @@ code {
 	font-size: 20px; 
 	text-decoration: none;
 }
+
+.q1 {
+	display: none;
+}
+
+#uniquename {
+	display: none;
+}
