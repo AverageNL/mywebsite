@@ -93,16 +93,13 @@ code {
 
 #reveal {
 display: none;
-border-radius: 3px;
-  box-shadow: 1px 1px 3px #555;
-  padding: 25px;
 }
 
 #telefoonklik {
 	display: block;
 	text-align:left;
   	display: block;
-	color: #f22613; 
+	color: black; 
 	font-weight: normal; 
 	font-size: 20px; 
 	text-decoration: none;
