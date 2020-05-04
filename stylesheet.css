@@ -2,14 +2,14 @@
 body {
     	font-family: 'Open Sans', sans-serif;
 	font-size: 20px;
-	background-color: #ffffff; 
+	background-color: #eceff4; 
 	margin: 4% 24%;
 	}
 
 h1 {
 	font-size: 52px;
 	font-family: 'Montserrat', sans-serif;
-	background-color: #ffffff;
+	background-color: #eceff4;
 	text-align: center;
 	}
 	
@@ -41,14 +41,14 @@ p {
 }
 
 a {
-	color: #f22613; 
+	color: #bf616a; 
 	font-weight: normal; 
 	font-size: 20px; 
 	text-decoration: none;
 	}
 
 a:hover { 
-	color: #f22613; 
+	color: #bf616a; 
 	font-weight: normal; 
 	font-size: 20px; 
 	text-decoration: underline;
@@ -73,7 +73,7 @@ footer {
 }
 
 #mail {
-	color: #f22613; 
+	color: #bf616a; 
 	font-weight: normal; 
 	font-size: 20px; 
 	text-decoration: none;
