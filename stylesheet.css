@@ -9,7 +9,7 @@ body {
 h1 {
 	font-size: 52px;
 	font-family: 'Montserrat', sans-serif;
-	background-color: #eceff4;
+	background-color: #black;
 	text-align: center;
 	}
 	
@@ -41,15 +41,15 @@ p {
 }
 
 a {
-	color: #5e81ac; 
-	font-weight: bold; 
+	color: #f22613; 
+	font-weight: normal; 
 	font-size: 20px; 
 	text-decoration: none;
 	}
 
 a:hover { 
-	color: #5e81ac; 
-	font-weight: bold; 
+	color: #f22613; 
+	font-weight: normal; 
 	font-size: 20px; 
 	text-decoration: underline;
 	}
@@ -73,8 +73,8 @@ footer {
 }
 
 #mail {
-	color: #bf616a; 
-	font-weight: bold; 
+	color: #f22613; 
+	font-weight: normal; 
 	font-size: 20px; 
 	text-decoration: none;
 }
