@@ -30,7 +30,7 @@ h3 {
 h4 {
 	font-size: 24px;
 	font-family: 'Source Sans Pro', sans-serif;
-	color: #black; 
+	color: #f8f8f2; 
 	text-align: left;
 }
 	
@@ -39,6 +39,7 @@ p {
 	font-size: 20px;
 	line-height: 1.2;
 	color: #f8f8f2;
+	background-color: #282a36;
 }
 
 a {
