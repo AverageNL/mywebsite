@@ -71,7 +71,8 @@ code {
 
 footer {
 	float: right; 
-	font-size: 20px
+	font-size: 20px;
+	color: #f8f8f2;
 }
 
  ul {
