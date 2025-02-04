@@ -55,14 +55,14 @@ nav a {
 }
 
 a {
-	color: #8be9fd; 
+	color: #bf616a; 
 	font-weight: normal; 
 	font-size: 20px; 
 	text-decoration: none;
 	}
 
 a:hover { 
-	color: #f8f8f2; 
+	color: #3b4252; 
 	font-weight: normal; 
 	font-size: 20px; 
 	text-decoration: underline;
