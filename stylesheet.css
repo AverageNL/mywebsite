@@ -41,6 +41,19 @@ p {
 	background-color: #282a36;
 }
 
+nav {
+    	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	padding: 10px;
+	background-color: #2e3440;
+}
+
+nav a {
+	color: white;
+	margin: 0 15px;
+	text-decoration: none;
+}
+
 a {
 	color: #8be9fd; 
 	font-weight: normal; 
