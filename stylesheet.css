@@ -1,28 +1,28 @@
 body {
     	font-family: 'Open Sans', sans-serif;
 	font-size: 20px;
-	background-color: #282a36; 
+	background-color: #F4F4F4; 
 	margin: 4% 24%;
 	}
 
 h1 {
 	font-size: 52px;
 	font-family: 'Montserrat', sans-serif;
-	color: #50fa7b;
+	color: #FF6B6B;
 	text-align: center;
 	}
 	
 h2 {
 	font-size: 34px; 
 	font-family: 'Montserrat', sans-serif;
-	color: #f8f8f2; 
+	color: #F4F4F4; 
 	text-align: center;
 	}
 
 h3 {
 	font-size: 32px; 
 	font-family: 'Montserrat', sans-serif;
-	color: #50fa7b; 
+	color: #F4F4F4; 
 	text-align: left;
 }
 
@@ -37,12 +37,12 @@ p {
     	font-family: 'Open Sans', sans-serif;
 	font-size: 20px;
 	line-height: 1.2;
-	color: #f8f8f2;
-	background-color: #282a36;
+	color: #333333;
+	background-color: #F4F4F4;
 }
 
 a {
-	color: #8be9fd; 
+	color: #FFD700; 
 	font-weight: normal; 
 	font-size: 20px; 
 	text-decoration: none;
