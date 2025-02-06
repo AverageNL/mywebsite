@@ -107,11 +107,11 @@
 		color: #ffffff;
 		font-size:1.2em;
 }
-	footer ul li a {
-		font-size: 1.1em;
-		color: white;
-	}
 a {
 	color: #5e81ac; 
 	font-size:1.0em;
+	}
+footer ul li a {
+	font-size: 1.1em;
+	color: white;
 	}
