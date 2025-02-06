@@ -113,3 +113,34 @@ a {
 	color: #5e81ac; 
 	font-size:1.0em;
 	}
+    footer {
+        background: #2e3440;
+        color: white;
+        padding: 0px 10px;
+		font-weight: bold;
+		font-size: 1.0em;
+		position: fixed;
+		bottom:0;
+		width: 100%;
+		text-align: center;
+    }
+    .footer-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: right;
+        max-width: 900px;
+        margin: 0 auto;
+    }
+    footer h1 {
+        color: #fff;
+        text-decoration: none;
+        font-size: 0.7em;
+        font-weight: bold;
+    }
+
+    footer ul li a {
+        color: #fff;
+        text-decoration: none;
+        font-size: 0.7em;
+        font-weight: bold;
+    }
