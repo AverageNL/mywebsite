@@ -1,147 +1,112 @@
-body {
-    	font-family: 'Open Sans', sans-serif;
-	font-size: 20px;
-	background-color: #f8f9fb; 
-	margin: 4% 24%;
+    * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+    }
+    body {
+        font-family: 'Arial', sans-serif;
+        background-color: #ffffff;
+        color: #333;
+        line-height: 1.6;
+    }
+    header {
+        background: #2e3440;
+        color: white;
+        padding: 10px 20px;
+    }
+    .header-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        max-width: 900px;
+        margin: 0 auto;
+    }
+    header h1 {
+        font-size: 2.0em;
+    }
+    nav ul {
+        display: flex;
+        list-style: none;
+    }
+    nav ul li {
+        margin-left: 24px;
+    }
+    nav ul li a {
+        color: #fff;
+        text-decoration: none;
+        font-size: 1.0em;
+        font-weight: bold;
+    }
+    main {
+        max-width: 900px;
+        margin: 40px auto;
+        padding: 20px;
+    }
+	h1 {
+		font-size:2.0em;
+		color: #4c566a;
 	}
-
-h1 {
-	font-size: 52px;
-	font-family: 'Montserrat', sans-serif;
-	color: #5e81ac;
-	text-align: center;
-	}
-	
-h2 {
-	font-size: 34px; 
-	font-family: 'Montserrat', sans-serif;
-	color: #2e3440; 
-	text-align: center;
-	}
-
-h3 {
-	font-size: 32px; 
-	font-family: 'Montserrat', sans-serif;
-	color: #5e81ac; 
-	text-align: left;
+    h2 {
+		font-size:1.4em;
+        margin-bottom: 15px;
+        border-bottom: 2px solid #333;
+        padding-bottom: 5px;
+		color: #4c566a;
+    }
+	h3 {
+		font-size:1.2em;
+        margin-bottom: 15px;
+        padding-bottom: 5px;
+    }
+    p {
+        margin-bottom: 15px;
+		font-size:1.1em;
+    }
+    ul {
+        list-style: none;
+        padding: 0;
+    }
+    ul li {
+        margin: 10px 0;
+    }
+    ul li a {
+        text-decoration: none;
+        color: #0073e6;
+        font-weight: bold;
+    }
+    ul li a:hover {
+        text-decoration: underline;
+    }
+    .about {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .about-text {
+        flex: 1;
+        padding-right: 20px;
+    }
+    .about-image img {
+        max-width: 150px;
+        height: auto;
+        border-radius: 5px;
+    }
+	.portfolio li {
+		list-style-type: disc;
+		list-style-position: inside;
+		font-size: 0.9em;
+		}
+	code {
+		background-color: #2e3440;
+		border-radius: 5px;
+		padding: 1px 6px 1px;
+		color: #ffffff;
+		font-size:1.2em;
 }
-
-h4 {
-	font-size: 24px;
-	font-family: 'Source Sans Pro', sans-serif;
-	color: #4c566a; 
-	text-align: left;
+ul {
+	font-size:1.2em;
 }
-	
-p {
-    	font-family: 'Open Sans', sans-serif;
-	font-size: 20px;
-	line-height: 1.2;
-	color: #4c566a;
-	background-color: #f8f9fb;
-}
-
-nav {
-    	font-family: 'Open Sans', sans-serif;
-	font-size: 20px;
-	padding: 10px;
-	background-color: #2e3440;
-}
-
-nav a {
-	color: f8f9fb;
-	margin: 0 15px;
-	text-decoration: none;
-}
-
 a {
-	color: #bf616a; 
-	font-weight: normal; 
-	font-size: 20px; 
-	text-decoration: none;
+	color: #5e81ac; 
+	font-size:1.0em;
 	}
-
-a:hover { 
-	color: #3b4252; 
-	font-weight: normal; 
-	font-size: 20px; 
-	text-decoration: underline;
-	}
-
-hr {
-    	border: 0;
-    	height: 0;
-   	border-top: 2px solid rgba(0, 0, 0, 0.2);
-   	border-bottom: 1px solid rgba(255, 255, 255, 0.5);
-}
-
-code {
-	background-color: #6272a4;
-	border-radius: 5px;
-	padding: 1px 6px 1px;
-}
-
-footer {
-	float: right; 
-	font-size: 20px;
-	color: #f8f8f2;
-}
-
- ul {
-  list-style: none;
-}
-
-ul li::before {
-  content: "\2022";
-  color: #f8f8f2;
-  font-weight: bold; /* If you want it to be bold */
-  display: inline-block;
-  width: 1em;
-  margin-left: -1em;
-}
-
-
-#mail {
-	color: #f22613; 
-	font-weight: normal; 
-	font-size: 20px; 
-	text-decoration: none;
-}
-
-.q1 {
-	display: none;
-}
-
-#uniquename {
-	display: none;
-}
-
-#hover-area {
-	text-align:left;
-  	display: block;
-	color: #bd93f9; 
-	font-weight: normal; 
-	font-size: 20px; 
-	text-decoration: none;
-}
-
-#reveal {
-display: none;
-	color: #f8f8f2;
-	padding: 1%;
-}
-
-#telefoonklik {
-	display: block;
-	text-align:left;
-  	display: block;
-	color: #8be9fd; 
-	font-weight: normal; 
-	font-size: 20px; 
-	text-decoration: none;
-	-webkit-transition: all 300ms;
-	-moz-transition: all 300ms;
-	transition: all 300ms;
-	margin: 0 auto;
-	padding: 0;	
-}
